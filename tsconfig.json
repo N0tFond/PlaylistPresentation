@@ -24,4 +24,8 @@
   "include": [
     "src"
   ]
+  "exclude": [
+    "../wwwroot/app",
+    "node_modules/*"
+  ]
 }
